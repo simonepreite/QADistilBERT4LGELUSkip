@@ -4,7 +4,7 @@ question answering level for DistilBert
 
 To quickly use QADistilBert4LGELUSkip, clone QADistilBert4LGELUSkip's repository and install the necessary requirements by running
 
-`pip install -r requirements-cpu.txt`
+`pip install -r requirements.txt`
 
 We recommend creating a separate python 3.6 environment. 
 
